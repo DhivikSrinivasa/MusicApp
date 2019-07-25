@@ -22,7 +22,7 @@ const initialState = {
 
 
 //class starts here
-class addSong extends React.Component {
+class AddSong extends React.Component {
     state = initialState;
 
     handleChange = event => {
@@ -225,7 +225,7 @@ class addSong extends React.Component {
 
                     {/* submit and cancel fields */}
                     <div>
-                        <Button variant="contained" color="primary" type="submit" id="submit" onClick={this.handleSubmit}>submit</Button>
+                        <Button id='addSong' variant="contained" color="primary" type="submit" onClick={this.handleSubmit}>submit</Button>
                         {/* <Button variant="contained" color="primary" type="submit" id="cancel" onClick={this.handleClearForm}>Cancel</Button> */}
                         <Popup></Popup>
                     </div>
@@ -235,4 +235,4 @@ class addSong extends React.Component {
         );
     }
 }
-export default addSong;
+export default AddSong;
