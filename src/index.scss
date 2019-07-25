@@ -1,0 +1,68 @@
+/* for the home,addSong,search links in app.js*/
+nav{
+  overflow: hidden;
+  background-color: rgb(66, 144, 180);
+
+   /*header tag of MusicApp in app.js */
+   h1{  
+     float: left;
+     color: #974343;
+     text-align: center;
+     text-decoration: none;
+     font-size: 40px;
+    }
+  
+/* addSong and search links of app.js */
+      .link{
+          color: rgb(18, 2, 87);
+          font-weight: bold;
+          text-decoration: none;
+          padding: 45px;
+          float: right;
+          text-align: right;
+          font-size: 20px;
+          }
+}
+
+.searchPage{
+        /* json reading */
+        .jsonDiv{
+            display: -webkit-box;
+              }
+      /* json data display */
+          .jsonData{
+            margin-right:5%;  
+          }
+}
+
+
+/* AddSong form */
+fieldset{
+  border:none;
+  padding: 20px;  
+  margin-left: auto;
+  margin-right: auto;
+  background: #b4f1b977;
+
+    /* AddSong form */
+      form {
+        text-align: -webkit-center;
+          }
+
+      /* AddSong form */
+      form>div{
+        width: 100%;
+        padding: 5px;
+        // float: right;  
+        } 
+}
+
+
+
+
+/* songlist and playlist text style */
+h2{
+  font-style: italic;
+  color:rgb(5, 83, 5);
+}
+

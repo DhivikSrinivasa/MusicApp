@@ -1,0 +1,44 @@
+
+[
+    {
+        
+        "name": "Tere naam",
+        "artist": "Salim Suleman",
+        "location": "Yashraj ",
+        "Album": "Tere naam",
+        "Duration": "5:20 mins"
+    },
+    {
+     
+        "name": "Senorita",
+        "artist": "Shawn Mendes",
+        "location": "Wynk",
+        "Album": "Island Records",
+        "Duration": "3:11 mins"
+    },
+    {
+     
+        "name": "RadioActive",
+        "artist": "Imagine Dragons",
+        "location": "Wynk",
+        "Album": "Night Visions",
+        "Duration": "3:07 mins"
+    },
+    {
+     
+        "name": "Oh Baby",
+        "artist": "Anurag Kulkarni",
+        "location": "Wynk",
+        "Album": "Oh baby",
+        "Duration": "4:04 mins"
+    },
+    {
+     
+        "name": "Lamberghini",
+        "artist": "Ragini",
+        "location": "Wynk",
+        "Album": "speed records",
+        "Duration": "3:36 mins"
+    }
+]
+
